@@ -30,5 +30,5 @@ Python | Data Analysis | Product Thinking | GIS | Machine Learning | Visualizati
 ---
 
 📫 Contact:  
-- Email: your_email@example.com  
-- LinkedIn: https://linkedin.com/in/yourname
+- Email: yuhansun0704@163.com
+
